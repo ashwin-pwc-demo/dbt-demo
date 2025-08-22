@@ -1,0 +1,6 @@
+models:
+  - name: int_customer
+    columns:
+      - name: email
+        tests:
+          - test_empty_value
